@@ -1,0 +1,559 @@
+# depslib dependency file v1.0
+1495647788 source:c:\codeblocks temp\spacegun\main.cpp
+	<iostream>
+	<conio.h>
+	<glm/glm.hpp>
+	<windows.h>
+	<windows.cpp>
+	<audio.h>
+	<audio.cpp>
+	<graphics.h>
+	<text.h>
+	<text.cpp>
+
+1496502916 c:\codeblocks temp\spacegun\includes\windows.h
+	<glew.h>
+	<glfw3.h>
+
+1439223442 c:\codeblocks temp\spacegun\includes\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1464867078 c:\codeblocks temp\spacegun\includes\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1496505772 c:\codeblocks temp\spacegun\includes\windows.cpp
+	<windows.h>
+	<soil2/soil2.h>
+	<iostream>
+
+1466344319 c:\codeblocks temp\spacegun\includes\soil2\soil2.h
+
+1495616436 c:\codeblocks temp\spacegun\includes\audio.h
+	<al.h>
+	<alc.h>
+	<iostream>
+	<fstream.h>
+
+1165575658 c:\codeblocks temp\spacegun\includes\al.h
+
+1176460368 c:\codeblocks temp\spacegun\includes\alc.h
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\_fixes.hpp
+	<cmath>
+
+1438464936 c:\codeblocks temp\spacegun\includes\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1458392818 c:\codeblocks temp\spacegun\includes\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<__config>
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1438465103 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1457813285 c:\codeblocks temp\spacegun\includes\glm\detail\precision.hpp
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\_swizzle.hpp
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\_swizzle_func.hpp
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec2.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec3.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1458392818 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1458392818 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1441038892 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec4_sse2.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec4_avx.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec4_avx2.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1457869625 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat2x2.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1457869625 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat2x3.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1458392818 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1458392818 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat2x4.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1457869432 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat3x2.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1457869432 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat3x3.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1457869431 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat3x4.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat4x2.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1457869431 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat4x3.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1458392818 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1457869443 c:\codeblocks temp\spacegun\includes\glm\detail\type_mat4x4.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1441051837 c:\codeblocks temp\spacegun\includes\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\type_vec1.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\func_vector_relational.inl
+	<limits>
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\common.hpp
+	"detail/func_common.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1451841634 c:\codeblocks temp\spacegun\includes\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1437262117 c:\codeblocks temp\spacegun\includes\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1451842014 c:\codeblocks temp\spacegun\includes\glm\detail\type_half.inl
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1457218279 c:\codeblocks temp\spacegun\includes\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1426535103 c:\codeblocks temp\spacegun\includes\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1495619791 c:\codeblocks temp\spacegun\includes\audio.cpp
+	<audio.h>
+
+1466682832 c:\codeblocks temp\spacegun\includes\shader.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1458392818 c:\codeblocks temp\spacegun\includes\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1441051454 c:\codeblocks temp\spacegun\includes\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1441052694 c:\codeblocks temp\spacegun\includes\glm\gtc\constants.inl
+	<limits>
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1424014283 c:\codeblocks temp\spacegun\includes\glm\gtc\type_ptr.inl
+	<cstring>
+
+1466676466 c:\codeblocks temp\spacegun\includes\shader.cpp
+	<shader.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<glew.h>
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1458392781 c:\codeblocks temp\spacegun\includes\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1495477375 c:\codeblocks temp\spacegun\includes\graphics.h
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<soil2/soil2.h>
+	<shader.h>
+	<shader.cpp>
+
+1493644274 c:\codeblocks temp\spacegun\includes\text.h
+	<iostream>
+	<map>
+	<glew.h>
+	<freetype/ft2build.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"texture.h"
+	"shader.h"
+
+1143183308 c:\codeblocks temp\spacegun\includes\freetype\ft2build.h
+	<freetype/config/ftheader.h>
+
+1168318256 c:\codeblocks temp\spacegun\includes\freetype\config\ftheader.h
+
+1466674868 c:\codeblocks temp\spacegun\includes\texture.h
+	<glew.h>
+
+1467182273 c:\codeblocks temp\spacegun\includes\text.cpp
+	"text.h"
+
