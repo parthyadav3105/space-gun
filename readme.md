@@ -13,7 +13,7 @@
 	The executable has been tested in windows 7,windows 10.
 
 ### Compiling source code
-	The source code for wrote and tested in windows 7 in codeblocks ide using the default g++ compiler.
+	The source code was wrote and tested in windows 7 in codeblocks ide using the default g++ compiler.
 	You may not face any problem in compiling if you use the codeblock project file stored in "project code block" folder.
 	
 	If you are compiling on some other ide or directly in terminal then you would have to link the following static libraries stored in lib folder.
@@ -39,4 +39,8 @@ CREDITS:
 
 ### Extra info
 	The game runs in full-screen mode and uses primary monitor.
-	If sounds effects are not working then that means openal is not installed on the system.
+	If sounds effects are not working then that means openAL is not installed on the system.
+	
+
+
+You can find me on twitter: [Asha_Seema_](https://twitter.com/Asha_Seema_)
